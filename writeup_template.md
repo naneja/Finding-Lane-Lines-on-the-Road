@@ -11,8 +11,7 @@ The goals / steps of this project are the following:
 
 ## (Image References)
 
-![Lanes marked on test images][image1]
-[image1]: https://github.com/naneja/finding-lane-lines-on-the-road/blob/master/images/sample.png "Lanes marked on test images"
+![Lanes marked on test images] (https://github.com/naneja/finding-lane-lines-on-the-road/blob/master/images/sample.png "Lanes marked on test images")
 
 ---
 
