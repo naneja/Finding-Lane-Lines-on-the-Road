@@ -9,9 +9,10 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-## (Image References)
+## (Image Reference)
 
 ![Lanes marked on test images](https://github.com/naneja/finding-lane-lines-on-the-road/blob/master/images/sample.png)
+
 **Lanes marked on test images**
 
 
