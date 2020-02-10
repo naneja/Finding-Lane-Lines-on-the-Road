@@ -11,7 +11,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/sample.png "Lanes marked on test images"
+[image1]: ./blob/master/images/sample.png "Lanes marked on test images"
+[]
 
 ---
 
