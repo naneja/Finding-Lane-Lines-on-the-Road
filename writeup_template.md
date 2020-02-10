@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./blob/master/images/sample.png "Lanes marked on test images"
+[image1]: https://github.com/naneja/finding-lane-lines-on-the-road/blob/master/images/sample.png "Lanes marked on test images"
 []
 
 ---
